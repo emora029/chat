@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "422378349927",
+    "firebase_url": "https://chat-dinbog.firebaseio.com",
+    "project_id": "chat-dinbog",
+    "storage_bucket": "chat-dinbog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422378349927:android:6d7c2ec5700bac41c37bc2",
+        "android_client_info": {
+          "package_name": "com.example.chat_elizabeth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422378349927-gskgmivsagb65dnoooison1h4dl3u25s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_elizabeth",
+            "certificate_hash": "8317cc8363ccd395f24be33f7c77ccacbe25afa7"
+          }
+        },
+        {
+          "client_id": "422378349927-3eoeha87t1i7jc3japcp05kks57psffr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI3ZeNRXJ9B3Ni6sD3S3QhThXFRH1ci2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422378349927-3eoeha87t1i7jc3japcp05kks57psffr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
